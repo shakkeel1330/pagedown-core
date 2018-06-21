@@ -1,0 +1,46 @@
+{
+  "_from": "git+https://github.com/edrohler/pagedown-core.git",
+  "_id": "pagedown-core@1.1.0",
+  "_inBundle": false,
+  "_location": "/pagedown-core",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "pagedown-core@git+https://github.com/edrohler/pagedown-core.git",
+    "name": "pagedown-core",
+    "escapedName": "pagedown-core",
+    "rawSpec": "git+https://github.com/edrohler/pagedown-core.git",
+    "saveSpec": "git+https://github.com/edrohler/pagedown-core.git",
+    "fetchSpec": "https://github.com/edrohler/pagedown-core.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/edrohler/pagedown-core.git#dc5e574e492f1de7ef8a6a8e8a990ab9f2ba9412",
+  "_spec": "pagedown-core@git+https://github.com/edrohler/pagedown-core.git",
+  "_where": "/home/user/Documents/git2/sunbird-portal-tenant/src/app/client",
+  "bugs": {
+    "url": "https://github.com/edrohler/pagedown/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "markdown converter, based on showdown",
+  "files": [
+    "Markdown.Converter.js",
+    "Markdown.Sanitizer.js",
+    "Markdown.Editor.js"
+  ],
+  "homepage": "http://code.google.com/p/pagedown/wiki/PageDown",
+  "keywords": [
+    "markdown"
+  ],
+  "license": "MIT",
+  "main": "node-pagedown.js",
+  "name": "pagedown-core",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edrohler/pagedown.git"
+  },
+  "version": "1.1.0"
+}
